@@ -1,4 +1,4 @@
-Final one-week project for my last year at Ecole Centrale de Lille as a group of four contributors.
+Final one-week project for my last year at Ecole Centrale de Lille in a group of four contributors.
 
 The goal was to control and organize several robots handling a warehouse ( entrepôt in french ).
 
